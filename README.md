@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Vladislav 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h3 align="center">Student of BSU majoring in computer security.<br> I am currently studying Java, JavaScrypt, will be glad to cooperate.</h3>
+<h3 align="center">Student of BSU majoring in computer security.<br> I want to become frontend developer and will be glad to cooperate.</h3>
 
 
 <!---
