@@ -2,10 +2,11 @@ _Objectively JavaScript has undefined advantages and NaN disadvantages_
 
 :mailbox: Reach me out!
 
-[![Mail Badge](https://img.shields.io/badge/-Vladislav_Malchevskiy-e74c3c?style=flat&labelColor=e74c3c&logo=instagram&logoColor=white)](https://www.instagram.com/v.malchevsky/) 
-[![Mail Badge](https://img.shields.io/badge/-Vladislav_Malchevskiy-e74c3c?style=flat&labelColor=e74c3c&logo=telegram&logoColor=white)](https://t.me/Varn0R) 
-[![Linkedin Badge](https://img.shields.io/badge/-Vladislav_Malchevskiy-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-malchevskiy-180702296/) 
+
+[![Mail Badge](https://img.shields.io/badge/-Vladislav_Malchevskiy-e74c3c?style=flat&labelColor=0088cc&logo=telegram&logoColor=white)](https://t.me/Varn0R) 
 [![Mail Badge](https://img.shields.io/badge/-Vladislav_Malchevskiy-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vladislav.malchevskiy.work@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Vladislav_Malchevskiy-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-malchevskiy-180702296/) 
+[![Mail Badge](https://img.shields.io/badge/-Vladislav_Malchevskiy-e74c3c?style=flat&labelColor=f4a4eb&logo=instagram&logoColor=white)](https://www.instagram.com/v.malchevsky/) 
 
 #### Top Technologies
 
