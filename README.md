@@ -21,7 +21,7 @@ _Objectively JavaScript has undefined advantages and NaN disadvantages_
 </div>
 
 ### Profile views counter 👁️‍🗨️
-[![Vladislav_Malchevskiy profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/VARN0R)
+[![Uladzislau Malcheuski profile views](https://u8views.com/api/v1/github/profiles/118449746/views/day-week-month-total-count.svg)](https://u8views.com/github/VARN0R)
 
 
 
